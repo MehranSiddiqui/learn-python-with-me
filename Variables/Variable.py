@@ -8,3 +8,9 @@ patient_name = "Mehran"
 # We use predefined method print()
 
 print(patient_name)
+
+# FOR GETTING AN INPUT FROM THE USER we use the input method
+
+visitor_name = input("Enter your name")
+
+print(visitor_name)
