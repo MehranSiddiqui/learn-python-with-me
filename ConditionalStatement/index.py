@@ -1,8 +1,10 @@
+# With conditional statement we have also used comparing operators
 marks_obtained = input("Please enter the marks obtained: ")
 
 numberMarks = float(marks_obtained)
-
-if (numberMarks >= 90):
+if numberMarks == 100:
+    print("The student has got perfect score")
+elif (numberMarks >= 90):
     print("The student has got A grade")
 elif (numberMarks >= 75 and numberMarks < 90):
     print("The student has got B grade")
