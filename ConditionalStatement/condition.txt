@@ -1,0 +1,9 @@
+Create a Python program that takes a student's marks as input and determines their grade based on the marks. 
+
+If the marks are 90 or above, the student gets an A grade; 
+if the marks are between 75 and 89, they get a B grade;
+if the marks are between 60 and 74, they get a C grade;
+if the marks are between 40 and 59, they get a D grade; 
+and if the marks are below 40, the student fails.
+
+The program should also check whether the entered marks are valid, meaning they should be between 0 and 100. If the marks are outside this range, display "Invalid marks."
