@@ -1,0 +1,7 @@
+Bank loan Condition
+
+If has good credit score and has or has not enough income the loan should be approve
+
+if has not good creditscore the loan is not approved
+
+if is a criminal and has good credit score the loan is not to be approved
